@@ -6,4 +6,4 @@ src = "src"
 title = "Training Program Exercises"
 
 [output.html]
-site-url = "book"
+site-url = "/book/"
