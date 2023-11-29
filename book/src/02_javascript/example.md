@@ -1,1 +1,1 @@
-../exercises/example_exercise/README.md
+../../../exercises/example_exercise/README.md
