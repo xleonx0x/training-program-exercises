@@ -1,3 +1,11 @@
+# DevWatch.to
+
+**Focus**: TailwindCSS, React
+
+
+In this exercise we are going to recreate a "legimate" **anime streaming website**
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
