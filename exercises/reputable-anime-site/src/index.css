@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bg {
+    position: relative
+}
+
+.bg::before {
+    background: url("background.jpeg");
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    filter: grayscale(100%) blur(15px);
+}
+
+.main {
+    position: relative;
+}
