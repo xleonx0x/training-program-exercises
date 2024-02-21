@@ -11,6 +11,8 @@ For this exercise only change **ex1.js**. Use javascript to change the following
 ## Exercise 2
 For this exercise alter both **ex2.js** and **ex2.html** so that when button(x) is pressed it will fill in the center box with the corresponding html.
 
+**Bonus ⭐**: Make it so that the text fills in when the mouse leave the button instead of the click event. Also try extending or altering the setup
+
 ## Exercise 3
 Complete the fetch code in **ex3.js**. Write the friendly advice from the API to the given box.
 
