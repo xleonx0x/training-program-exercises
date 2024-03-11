@@ -1,4 +1,4 @@
-# React Hooks Pokedex Exercise
+# React Hooks Pokedex Exercise by Alex Lee
 This is the first exercise I have written, apologies if stuff don't make sense
 
 ## Please be aware
