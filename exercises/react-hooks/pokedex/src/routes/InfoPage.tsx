@@ -29,7 +29,7 @@ function InfoPage() {
     // Task 4: Using the components provided in the import statements, replicate the
     // website layout provided. Don't forget to include the info you fetched from
     // task 3
-    // HINT: You cannot enter the information directly like you with a <div> as these 
+    // HINT: You cannot enter the information directly like you would with a <div> as these 
     // components are already defined. They do however, have props defined for information
     // entry.
     return (

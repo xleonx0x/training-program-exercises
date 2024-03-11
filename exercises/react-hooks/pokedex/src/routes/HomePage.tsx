@@ -22,9 +22,14 @@ function HomePage() {
     // Task 2: Add functionality to the search bar so that it is able
     // filter the display of pokemonData
 
-    // Extension Task: Add functionality to the side bar so that the list of
-    // items displayed changes completely depending on the button pressed
-    // HINT: the url for each button is 
+    // Go to InfoPage.tsx for task 3 and 4
+
+    // Extension Task: Add functionality to the sidebar buttons so that the list displayed on the homepage
+    // changes depending on the category of the button pressed. The following catergories are:
+    // - pokemons
+    // - berries
+    // - items
+    // - machines
 
     return (
         <div className="flex"> 
