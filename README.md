@@ -3,7 +3,7 @@
     <source media="(prefers-color-scheme: light)" srcset="./img/fullTransparent.svg">
     <img width='300' alt="DevSoc Logo" src="./img/fullInvertTransparent.svg">
   </picture>
-</p>`
+</p>
 
 # 🏔️ Training Program Exercises
 
