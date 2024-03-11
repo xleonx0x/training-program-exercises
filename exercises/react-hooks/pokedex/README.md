@@ -9,6 +9,7 @@ InfoPage.tsx. All components from the components folder should remain unmodified
 Write the useEffect hook to generate a list of pokemon to be displayed on the homepage
 This list should be stored in the provided pokemonData useState
 HINT: the url for the useEffect hook is `https://pokeapi.co/api/v2/pokemon?limit=100`
+Note that this is a pagination
 
 ## Task 2 - HomePage.tsx
 Add functionality to the provided search bar component so that it is able to filter
