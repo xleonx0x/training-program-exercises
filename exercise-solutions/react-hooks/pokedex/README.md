@@ -8,7 +8,7 @@ InfoPage.tsx. All components from the components folder should remain unmodified
 ## Task 1
 Write the useEffect hook to generate a list of pokemon to be displayed on the homepage
 This list should be stored in the provided pokemonData useState
-HINT: the url for the useEffect hook is 'https://pokeapi.co/api/v2/pokemon?limit=100'
+HINT: the url for the useEffect hook is `https://pokeapi.co/api/v2/pokemon?limit=100`
 
 ## Task 2
 Add functionality to the provided search bar component so that it is able to filter
@@ -20,7 +20,7 @@ HINT: `https://pokeapi.co/api/v2/pokemon/${id}`
 
 ## Task 4
 Using the components provided in the import statements, replicate the website layout provided. Don't forget to include the info you fetched from task 3.
-HINT: You cannot enter the information directly like you with a <div> as these components are already defined. They do however, have props defined for information entry.
+HINT: You cannot enter the information directly like you with a `<div>` as these components are already defined. They do however, have props defined for information entry.
 
 ## Extension Task
 Add functionality to the sidebar buttons so that the list displayed on the homepage
@@ -29,6 +29,7 @@ changes depending on the category of the button pressed. The following catergori
 - berries
 - items
 - machines
+
 You will need to look around the PokeAPI website for the links.
 This task will most likely require you to modify other files.
 
