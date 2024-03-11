@@ -1,7 +1,7 @@
 import './SideBar.css'
 import pokeball from '../assets/pokeball.png'
 import pikachu from '../assets/pikachu.png'
-import berry from '../assets/berry.png'
+import map from '../assets/map.png'
 import item from '../assets/potion.png'
 import moves from '../assets/tm.png'
 
@@ -14,7 +14,7 @@ function SideBar() {
                 <div className="paddingbox1"/>
                 <img src={pikachu} className="iconbox"/>
                 <div className="paddingbox1"/>
-                <img src={berry} className="iconbox"/>
+                <img src={map} className="iconbox"/>
                 <div className="paddingbox1"/>
                 <img src={item} className="iconbox"/>
                 <div className="paddingbox1"/>

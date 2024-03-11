@@ -28,7 +28,7 @@ function HomePage() {
     // Extension Task: Add functionality to the sidebar buttons so that the list displayed on the homepage
     // changes depending on the category of the button pressed. The following catergories are:
     // - pokemons
-    // - berries
+    // - locations
     // - items
     // - machines
 
@@ -36,7 +36,7 @@ function HomePage() {
         <div className="flex"> 
             <Sidebar/>
             <div className="main-content">
-                <div className="title">Devsoc Pokedex</div>
+                <div className="main-title">Devsoc Pokedex</div>
                 <div className="searchcontainer">
                     <img src={glass} className="magnifying"/>
                     <input className="searchbar"

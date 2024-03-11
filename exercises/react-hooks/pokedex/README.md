@@ -27,7 +27,7 @@ HINT: You cannot enter the information directly like you would with a `<div>` as
 Add functionality to the sidebar buttons so that the list displayed on the homepage
 changes depending on the category of the button pressed. The following catergories are:
 - pokemons
-- berries
+- locations
 - items
 - machines
 
