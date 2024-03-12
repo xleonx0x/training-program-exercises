@@ -10,20 +10,20 @@ Themes and Aesthetics:
 
 - [Catppuccin for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme): for better icons
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - for better icons
 
 Utility:
 
-- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): enable auto format on save to maximise ultility
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): enables you to run local servers for development
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - enable auto format on save to maximise utility
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - enables you to run local servers for development
 - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag): for editing HTML/XML tags
-- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens): display errors inline to avoid hovering
-- [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): displays more Git information
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - for editing HTML/XML tags
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - display errors inline to avoid hovering
+- [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - displays more Git information
 
 For fun:
 
-- [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode): connect VSCode with Discord activity
+- [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - connect VSCode with Discord activity
 
 ## Web Browsers
 
