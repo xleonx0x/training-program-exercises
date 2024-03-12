@@ -6,23 +6,34 @@ Here is a list of additional recommendations for plugins and tools which aren't 
 
 It is recommended to install a theme and any extensions you would enjoy, below are a few suggestions:
 
+Themes and Aesthetics:
+
 - [Catppuccin for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme): for better icons
+
+Utility:
+
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): enable auto format on save to maximise ultility
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): enables you to run local servers for development
 - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
-- [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-- [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag): for editing HTML/XML tags
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens): display errors inline to avoid hovering
+- [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): displays more Git information
+
+For fun:
+
+- [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode): connect VSCode with Discord activity
 
 ## Web Browsers
 
 As a web developer, you should also have a variety of browsers installed on your system. I would at least recommend the following two:
 
-1. [Google Chrome](https://www.google.com.au/intl/en_au/chrome/): Widley used by most people and is the best for JavaScript debugging.
-2. [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) or [FireFox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/): FireFox has a much better suite of CSS and styling tools. With the introduction of the Developer Edition there are much more developer features to help you develop.
+1. [Google Chrome](https://www.google.com.au/intl/en_au/chrome/)
+   - Widley used by most people and is the best for JavaScript debugging.
+2. [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) or [FireFox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/):
+   - FireFox has a much better suite of CSS and styling tools.
+   - Developer Edition provides more developer features particularly for flex box and grids.
 
 You can read much more about these web browsers on their respective pages or online.
 
@@ -31,7 +42,7 @@ You can read much more about these web browsers on their respective pages or onl
 This is a zsh plugin which will give you suggestions for your command line based on your previously used commands. To install it simply clone the repo into `$ZSH_CUSTOM/plugins`:
 
 ```sh
-it clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
 
 Then add the plugin to the list of plugins for Oh My Zsh to load (inside `~/.zshrc`) and start a new terminal session:
