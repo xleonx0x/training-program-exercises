@@ -1,5 +1,7 @@
 # Summary
 
+[Training Program Exercises](title-page.md)
+
 - [Getting Started](01_getting-started/index.md)
   - [Setting up a Coding Environment](01_getting-started/coding_setup.md)
     - [macOS](01_getting-started/macos.md)
