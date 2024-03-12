@@ -56,20 +56,6 @@ First install [VSCode](https://code.visualstudio.com/) from the website.
 
 Once you open the application the first thing to do is install the `Code` command to your path. This will allow you to open VSCode from your terminal. Type `Cmd + Shift + P` to open the command pallet and write `Install Code`. Now click on the Shell command and it should install.
 
-Next install a theme and any extensions you would enjoy, below are a few recommendations:
-
-- [Catppuccin for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
-- [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
-- [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
-- [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-- [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
-
 ## Further Customisation
 
 This should be enough to get you started developing! However there are an infinite amount of further customisations and other tools and applications you can install and include.

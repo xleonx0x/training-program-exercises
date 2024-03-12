@@ -2,6 +2,14 @@
 
 Once you have an environment to code in we will need to install a few things before we can get going.
 
+## Zsh Plugins
+
+If using Zsh, open the `~/.zshrc` file and update the plugins. This will install git and nvm for you when you start a new terminal instance. If this is done you can skip to [Configuring Git](#configuring-git), [Installing Node and NPM](#installing-node-and-npm) and [Troubleshooting](#troubleshooting) to see if this worked. Otherwise follow with the other steps.
+
+```sh
+plugins=(git nvm)
+```
+
 ## Git
 
 Git is a version control system that tracks changes to a set of computer files which is usually used for coordinating work among programmers who are collaboratively developing source code. Git itself isn't too handy but when paired with a Git provider like GitHub and GitLab it becomes extremely powerful.
@@ -26,6 +34,17 @@ If you followed the previous guide your Window's setup should now be running WSL
 sudo apt update && sudo apt upgrade
 sudo apt install git
 ```
+
+### Configuring Git
+
+After installing Git we have to configure it. To do so we need to set the name and email by running the follow commands remembering to replace the name and email.
+
+```sh
+git config --global user.name "Nicole Chun"
+git config --global user.email "hello@devsoc.org.au"
+```
+
+You will now need to setup SSH keys which can be done by following the Guide mentioned above.
 
 ## Node and Node Package Manager (NPM)
 
@@ -68,18 +87,13 @@ If you wish to install or switch between versions please read through the docume
 
 ## Troubleshooting
 
-To check whether Git, Node of NPM has been installed correctly we can open a terminal and type the respective lines
+To check whether Git, Node of NPM has been installed correctly we can open a terminal and type the respective lines. If you see something similar the code below, then your installation is successful.
 
 ```sh
 $ git --version
+git version 2.43.0
 $ node --version
+v18.12.1
 $ npm --version
-```
-
-If you see something similar the code below, then your installation is successful.
-
-```sh
-$ git version 2.43.0
-$ v18.12.1
-$ 9.8.1
+9.8.1
 ```
