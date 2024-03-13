@@ -4,7 +4,7 @@ Historically, Windows has not been the preferred OS for most web developers, but
 
 ## Installing WSL
 
-The following steps will install Linx in your Windows environment. We will reference the offical [WSL Install Guide](https://learn.microsoft.com/en-us/windows/wsl/install).
+The following steps will install Linux in your Windows environment. We will reference the official [WSL Install Guide](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 From the start menu, search for PowerShell and run it as an administrator by right-clicking nd selecting "Run as administrator". Now enter the following command to install `wsl` and then restart your machine.
 

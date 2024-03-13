@@ -30,7 +30,7 @@ For fun:
 As a web developer, you should also have a variety of browsers installed on your system. I would at least recommend the following two:
 
 1. [Google Chrome](https://www.google.com.au/intl/en_au/chrome/)
-   - Widley used by most people and is the best for JavaScript debugging.
+   - Widely used by most people and is the best for JavaScript debugging.
 2. [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) or [FireFox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/):
    - FireFox has a much better suite of CSS and styling tools.
    - Developer Edition provides more developer features particularly for flex box and grids.
