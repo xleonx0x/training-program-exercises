@@ -45,3 +45,5 @@ Alternatively you can use the `serve` command, which will build your book and st
 ```sh
 mdbook serve book --open
 ```
+
+Once your feature is ready to go, feel free to add your name to the list of [contributors](./contributors.md).
