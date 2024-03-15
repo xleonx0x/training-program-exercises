@@ -9,7 +9,7 @@
   - [Installing Git, Node, NVM](01_getting-started/installation.md)
   - [(Optional) Additional Tools](01_getting-started/optional_extras.md)
 - [Javascript](02_javascript/index.md)
-  - [Example Exercise](02_javascript/example.md)
+  - [DOM manipulation](02_javascript/js-dom-manipulation.md)
 - [Figma](03_figma/index.md)
 - [React Basics](04_react-intro/index.md)
 - [Styling](06_styling/index.md)
