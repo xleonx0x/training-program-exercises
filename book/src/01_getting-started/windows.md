@@ -1,6 +1,6 @@
 # Windows Setup
 
-Historically, Windows has not been the preferred OS for most web developers, but with the introduction of [Windows Subsystem for Linux] (WSL and WSL2), this allows us to install a linux distribution on Windows. This means we can run a real linux environment on our Windows system.
+Historically, Windows has not been the preferred OS for most web developers, but with the introduction of [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/about) (WSL and WSL2), this allows us to install a linux distribution on Windows. This means we can run a real linux environment on our Windows system.
 
 ## Installing WSL
 
