@@ -1,6 +1,6 @@
 # macOS Setup
 
-Start by opening the terminal and typing the command
+Start by opening the terminal and typing the command:
 
 ```sh
 git
@@ -26,7 +26,7 @@ You may have noticed that the current terminal you have been working on looks ug
 
 Download [iTerm2](https://iterm2.com/) from the webpage or with `brew install --cask iterm2`
 
-Now to upgrade the look of the terminal install [Oh My Zsh](https://ohmyz.sh/#install) which is a framework for managing your `Zsh` configurations which comes bundled with helpful functions, plugins and themes.
+Now to upgrade the look of the terminal install [Oh My Zsh](https://ohmyz.sh/#install) which is a framework for managing your `zsh` configurations which comes bundled with helpful functions, plugins and themes.
 
 ```sh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
