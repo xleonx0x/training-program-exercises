@@ -20,10 +20,12 @@ Utility:
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - for editing HTML/XML tags
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - display errors inline to avoid hovering
 - [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - displays more Git information
+- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
 For fun:
 
 - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - connect VSCode with Discord activity
+- [Vs Code Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
 
 ## Web Browsers
 
@@ -71,7 +73,7 @@ GitHub CLI allows you to access GitHub from the terminal. Allowing you to view r
 
 ## Docker
 
-It is also recommended to install Docker to containerise your project however this mostly likely will not be needed for beginner web developers. If you would still like to install it you can do some from the [Docker Desktop](https://www.docker.com/products/docker-desktop/) site
+It is also recommended to install Docker to containerise your project however this mostly likely will not be needed for beginner web developers. If you would still like to install it you can do some from the [Docker Desktop](https://www.docker.com/products/docker-desktop/) site.
 
 ## Other Text Editors
 
