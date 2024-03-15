@@ -20,12 +20,18 @@ Utility:
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - for editing HTML/XML tags
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - display errors inline to avoid hovering
 - [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - displays more Git information
+<<<<<<< HEAD
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+=======
+>>>>>>> b4bc4792a5c58d8670c16187837d64edecdf4954
 
 For fun:
 
 - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - connect VSCode with Discord activity
+<<<<<<< HEAD
 - [Vs Code Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
+=======
+>>>>>>> b4bc4792a5c58d8670c16187837d64edecdf4954
 
 ## Web Browsers
 
@@ -73,7 +79,11 @@ GitHub CLI allows you to access GitHub from the terminal. Allowing you to view r
 
 ## Docker
 
+<<<<<<< HEAD
 It is also recommended to install Docker to containerise your project however this mostly likely will not be needed for beginner web developers. If you would still like to install it you can do some from the [Docker Desktop](https://www.docker.com/products/docker-desktop/) site.
+=======
+It is also recommended to install Docker to containerise your project however this mostly likely will not be needed for beginner web developers. If you would still like to install it you can do some from the [Docker Desktop](https://www.docker.com/products/docker-desktop/) site
+>>>>>>> b4bc4792a5c58d8670c16187837d64edecdf4954
 
 ## Other Text Editors
 
