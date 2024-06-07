@@ -5,9 +5,19 @@ console.log("Exercise 3")
 
 const main = document.querySelector("#display-box")
 
-const button = document.querySelector("button")
+const button = document.querySelector("#enter")
+
+const input = document.querySelector("#input")
+
+const img = document.querySelector("#img")
 
 button.addEventListener("click", () => {
-    fetch("://api.adviceslip.com/advice")
-        .then(...)
+    console.log(input.value);
+    fetch(`https://pokeapi.co/api/v2/pokemon/${input.value}`)
+        .then(resp => resp.json())
+        .then(data => {
+            console.log(data);
+            img.src = data.sprites.front_default;
+        })
 })
+
