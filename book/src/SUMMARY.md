@@ -19,3 +19,5 @@
 - [Styling](06_styling/index.md)
   - [DevWatch (TailwindCSS)](06_styling/devwatch.md)
 - [Storage](07_storage/index.md)
+  - [Setup](07_storage/setup.md)
+  - [MyGarregMach (Databases)](07_storage/myGarregMach.md)
